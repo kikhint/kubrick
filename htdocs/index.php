@@ -20,12 +20,12 @@
             ?>
             <div class="card mb-4 rounded-3 shadow-sm">
                 <div class="card-header py-3">
-                    <h4 class="my-0 fw-normal"><ya-tr-span data-index="8-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Free" data-translation="Бесплатно" data-ch="0" data-type="trSpan" style="visibility: initial !important;">Название фильма</ya-tr-span></h4>
+                    <h4 class="my-0 fw-normal"><ya-tr-span data-index="8-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Free" data-translation="Бесплатно" data-ch="0" data-type="trSpan" style="visibility: initial !important;">ен</ya-tr-span></h4>
                 </div>
                 <div class="card-body">
                     <img src="img/<?php echo ($i + 1) ?>.jpg" class="img-thumbnail">
                     <ul class="list-unstyled mt-3 mb-4">
-                        <li><ya-tr-span data-index="10-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="10 users included" data-translation="включено 10 пользователей" data-ch="0" data-type="trSpan" style="visibility: initial !important;">включено 10 пользователей</ya-tr-span></li>
+                        <li><ya-tr-span data-index="10-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="10 users included" data-translation="включено 10 пользователей" data-ch="0" data-type="trSpan" style="visibility: initial !important;">включено 10</ya-tr-span></li>
                         <li><ya-tr-span data-index="11-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="2 GB of storage" data-translation="2 ГБ памяти" data-ch="0" data-type="trSpan" style="visibility: initial !important;">2 ГБ памяти</ya-tr-span></li>
                         <li><ya-tr-span data-index="12-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Email support" data-translation="Поддержка по электронной почте" data-ch="0" data-type="trSpan" style="visibility: initial !important;">Поддержка по электронной почте</ya-tr-span></li>
                         <li><ya-tr-span data-index="13-0" data-translated="true" data-source-lang="en" data-target-lang="ru" data-value="Help center access" data-translation="Доступ к справочному центру" data-ch="0" data-type="trSpan" style="visibility: initial !important;">Доступ к справочному центру</ya-tr-span></li>
