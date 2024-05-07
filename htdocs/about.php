@@ -12,10 +12,12 @@
 <body>
     <?php require "blocks/header.php" ?>
     <div class="container mt-5">
-    <h3>Обратная связь</h3>
     <form action="check.php" method="post">
+        <div class="input-box">
+            <h3>Обратная связь</h3>
         <input type="email" name="email" placeholder="Введите ваш Email" class="form-control"><br>
         <textarea name="message" class="form-control" placeholder="Введите ваше сообщение"></textarea><br>
+        </div>
         <button type="submit" name="send" class="btn btn-success">Отправить</button>
     </form>
     </div>
